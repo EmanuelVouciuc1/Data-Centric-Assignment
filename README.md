@@ -142,10 +142,17 @@ Libraries used: pandas, matplotlib and sqlite.
 ## References
 
 https://youtu.be/byHcYRpMgI4?si=UaMqn-d3TAPJV0DK
+
 https://youtu.be/Uh2ebFW8OYM?si=R2l_C_BsYMJ0uIJ_
+
 https://youtu.be/q5uM4VKywbA?si=GXtuADfb1T6v-GbP
+
 https://www.classcentral.com/classroom/youtube-learn-pandas-in-under-3-hours-filtering-joins-indexing-data-cleaning-visualizations-407307/675d1862bcf5e
+
 https://www.youtube.com/watch?v=3Xc3CA655Y4
+
 https://www.youtube.com/watch?v=huUg6wDUsv4
+
 https://www.youtube.com/watch?v=8aW3tkIul-8
+
 https://www.youtube.com/watch?v=RZMn7SsI9Yk
