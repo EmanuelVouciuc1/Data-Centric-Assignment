@@ -92,6 +92,60 @@ Cleaning on load basically just removes extra spaces, makes capital letters cons
 
 ## The user interface
 This is just a screenshot, I think it is much better to display it in action
+
 <img width="244" height="313" alt="Screenshot 2026-11-25 at 01 20 33" src="https://github.com/user-attachments/assets/1fef564d-db49-4628-9707-446c0012672f" />
 
 
+
+## Findings
+
+I recorded 56 purchases totalling €2,211.66 over 32 days, which is about €69 a day (counting the days I bought nothing as €0).
+
+### Question 1: 
+Do I spend more on weekends than weekdays? Only slightly. I spent an average of €73.16 on each weekend day and €67.28 on each weekday. That is a small difference, and my biggest day of all was a Sunday (08/11, €257) mostly because of the €240 church fees, so one outlier payment brings the weekend average up. By day of the week, Monday was my most expensive (average €93.26) and Tuesday my cheapest (€46.18). 
+
+### Question 2:
+Do I do more online or in person shopping? In person, clearly. 40 of my 56 purchases (€1,634.68, 74% of the money) were in person, and 16 (€576.98, 26%) were online. The average purchase was similar: €40.87 in person and €36.06 online.
+
+
+### Question 3:
+What category do I spend the most money on? Activities was my biggest category (€472.46, 21%), mostly the church fees and the camp. Food came second (€374.01) but it was by far the most frequent: 24 purchases averaging only €15.58.
+
+
+### Other things I found
+
+A few big purchases matter a lot: the average purchase was €39.49.
+The two outliers (€240 and €160) are 4% of my purchases but 18% of the money.
+
+Needs vs wants: needs were 52% of what I spent (€1,144.57 over 33 purchases) and wants were 48% (€1,067.09 over 23 purchases).
+
+Cash vs card: I paid by card more often (31 purchases, €892.54) but spent more in cash (25 purchases, €1,319.12), because most of the bigger expenses were cash.
+
+
+
+## Limits of my data
+
+The data collected was collected over a 4 week period, this doesn't give a big enough dataset to make accurate assumptions and predictions on. I think if I had collected 3 total months of spending, it would be much more accurate to how I usually spend my money, and more interesting to analyse.
+
+
+## Reflection
+
+Looking back at my spending analysis, I spent a lot more money than I had expected, however this is party due to the fact that I have just recently moved into our newly converted attic, which is now my bedroom, and I had to buy furniture for the room. It is also because I was 6 months late on monthly church membership fees, which would usually only be 30 euro per month, but I decided to pay it off until the end of the year. Also the bank holiday Monday in October brought my average spending up for Mondays very high, as I used that day off to buy furniture and skiing gear for a trip I am going on soon.
+
+
+
+
+## Libraries Used
+Libraries used: pandas, matplotlib and sqlite.
+
+
+## References
+
+https://youtu.be/byHcYRpMgI4?si=UaMqn-d3TAPJV0DK
+https://youtu.be/Uh2ebFW8OYM?si=R2l_C_BsYMJ0uIJ_
+https://youtu.be/q5uM4VKywbA?si=GXtuADfb1T6v-GbP
+https://www.classcentral.com/classroom/youtube-learn-pandas-in-under-3-hours-filtering-joins-indexing-data-cleaning-visualizations-407307/675d1862bcf5e
+https://www.youtube.com/watch?v=3Xc3CA655Y4
+https://www.youtube.com/watch?v=huUg6wDUsv4
+https://www.youtube.com/watch?v=8aW3tkIul-8
+https://www.youtube.com/watch?v=RZMn7SsI9Yk
