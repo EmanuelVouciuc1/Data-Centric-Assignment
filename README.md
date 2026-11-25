@@ -27,7 +27,7 @@ What category do I spend the most money on? (eg. shopping, sports, food).
 |Online/in person  |       Categorical Text   |   Identifies whether the purchase was online or in person. |    online, in person                 |
 
 
-#AFTER FINISHING MY PROJECT
+# AFTER FINISHING MY PROJECT
 
 ##The dataset
 File: Excel Data/Data Centric Assignment Data.csv
@@ -37,7 +37,7 @@ How I collected it: After each cash purchase, I would quickly write down the exa
 After each card purchase, I didn't need to write it down as I could go home and check in my banking app, where I could see how much money I spent, and where
 
 
-##Photos of me collecting data
+## Photos of me collecting data
 
 <img width="735" height="1600" alt="WhatsApp Image 2026-10-22 at 10 27 35" src="https://github.com/user-attachments/assets/d84e8203-a807-48b7-8957-9f755894da76" />
 
