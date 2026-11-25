@@ -29,7 +29,7 @@ What category do I spend the most money on? (eg. shopping, sports, food).
 
 # AFTER FINISHING MY PROJECT
 
-##The dataset
+## The dataset
 File: Excel Data/Data Centric Assignment Data.csv
 Size: 56 rows, 8 columns, 16/10/2026 to 16/11/2026 (32 days, 28 of them with purchases)
 One row = one purchase. If I bought several things on one day, each purchase is its own row.
@@ -40,4 +40,6 @@ After each card purchase, I didn't need to write it down as I could go home and 
 ## Photos of me collecting data
 
 <img width="735" height="1600" alt="WhatsApp Image 2026-10-22 at 10 27 35" src="https://github.com/user-attachments/assets/d84e8203-a807-48b7-8957-9f755894da76" />
+#### This is how i would record cash transactions, very brief, so you can see I would do it in a rush but directly in the moment
+<img width="134" height="51" alt="Screenshot 2026-11-25 at 00 56 19" src="https://github.com/user-attachments/assets/9843ce35-b1a4-4386-a5de-d6e4e9a5e357" />
 
