@@ -90,5 +90,8 @@ Cleaning on load basically just removes extra spaces, makes capital letters cons
 <img width="800" height="500" alt="chart_weekdays" src="https://github.com/user-attachments/assets/e66a7b81-cdc4-4ec1-bfd7-88447d2fa044" />
 
 
+## The user interface
+This is just a screenshot, I think it is much better to display it in action
+<img width="244" height="313" alt="Screenshot 2026-11-25 at 01 20 33" src="https://github.com/user-attachments/assets/1fef564d-db49-4628-9707-446c0012672f" />
 
 
