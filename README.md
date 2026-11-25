@@ -46,3 +46,26 @@ After each card purchase, I didn't need to write it down as I could go home and 
 
 <img width="134" height="51" alt="Screenshot 2026-11-25 at 00 56 19" src="https://github.com/user-attachments/assets/9843ce35-b1a4-4386-a5de-d6e4e9a5e357" />
 
+
+
+
+
+## problems, missing data and outliers
+
+Days with no purchases: I recorded nothing on 01/11, 07/11, 09/11 and 14/11. In my analysis they count as €0.
+Outliers: Two purchases are much bigger than the rest: €240 church membership fees (08/11) and €160 for a camp (02/11). They are real payments, so I kept them in the data.
+Messy entries: My CSV had trailing spaces (for example Car  and  Circle K Hartstown) and inconsistent capitals (In person and in person). I left the CSV as I recorded it and cleaned the data when loading it into the database.
+
+
+
+
+
+
+## How the project works
+|File	| What it does|
+|---|---|
+|load_data.py |	Reads the CSV, cleans it, checks the values and puts it into the SQLite database spending.db|
+|queries.py |	SQL queries (COUNT, SUM, AVG, GROUP BY, ORDER BY, WHERE)|
+|analysis.py |	pandas functions that answer questions about the data|
+|charts.py |	matplotlib charts|
+|main.py |	The menu to explore the data|
