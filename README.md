@@ -56,7 +56,7 @@ Days with no purchases: I recorded nothing on 01/11, 07/11, 09/11 and 14/11. In 
 Outliers: Two purchases are much bigger than the rest: €240 church membership fees (08/11) and €160 for a camp (02/11). They are real payments, so I kept them in the data.
 Messy entries: My CSV had trailing spaces (for example Car  and  Circle K Hartstown) and inconsistent capitals (In person and in person). I left the CSV as I recorded it and cleaned the data when loading it into the database.
 
-
+Cleaning on load basically just removes extra spaces, makes capital letters consistent, converts dates to a format SQL can sort, removes rows missing a date or price, and warns about prices over €150.
 
 
 
@@ -69,3 +69,26 @@ Messy entries: My CSV had trailing spaces (for example Car  and  Circle K Hartst
 |analysis.py |	pandas functions that answer questions about the data|
 |charts.py |	matplotlib charts|
 |main.py |	The menu to explore the data|
+
+## Charts
+
+<img width="800" height="500" alt="chart_categories" src="https://github.com/user-attachments/assets/a5603f58-1be2-4317-b3f9-4b3fbcb4d00e" />
+
+
+<img width="1000" height="500" alt="chart_daily" src="https://github.com/user-attachments/assets/cf4cbc98-8374-4487-8898-be339815ce19" />
+
+
+<img width="800" height="500" alt="chart_need_want" src="https://github.com/user-attachments/assets/28b23165-d84f-4e7f-86de-c930c9709a0c" />
+
+
+<img width="600" height="500" alt="chart_online_vs_in_person" src="https://github.com/user-attachments/assets/842ee85b-eb73-4ccb-ba85-018d9decc8de" />
+
+
+<img width="800" height="500" alt="chart_price_distribution" src="https://github.com/user-attachments/assets/cb404fae-cc82-4da8-91d5-aea5ac2a0a06" />
+
+
+<img width="800" height="500" alt="chart_weekdays" src="https://github.com/user-attachments/assets/e66a7b81-cdc4-4ec1-bfd7-88447d2fa044" />
+
+
+
+
